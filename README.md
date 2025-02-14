@@ -3,4 +3,4 @@ my first repository
 ## First Heading
 ### Second Heading
 **Let's try bold**
-*Let's try italicized*
+*How about this*
