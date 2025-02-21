@@ -13,24 +13,26 @@
   "*Hello World Sample*"
 
 - ## Description
-My first project on github testing out features
+My first project on github which is about electric vehicles registered in Washington state through the Department of Licensing
 
 - ## How to Run Program
+
 Hello_World/
+
 └── 
-   
+  
     │── README.md
     
-    │── pgmname1.R
+    │── pgmelectricvehicleswa.R
     
     │── (https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD)
     
-    │── examples.html
+    │── evwashington.html
    
 
 - ## Files Used
 * Found on DATA.GOV
-* Data shows the Battery Electric Vehicles and Plug-In Hybrid Electric Vehicles registered through the Washington State DOL 
+* Data shows the Battery Electric Vehicles and Plug-In Hybrid Electric Vehicles registered through the Washington State Department of Licensing (DOL)
 * https://catalog.data.gov/dataset/electric-vehicle-population-data
   
 - ## Additional Documentation
@@ -38,3 +40,4 @@ Hello_World/
 "No additional documentation at this time here is some **bold text**"
 
 - ## Versioning
+*Version 1 no major changes so far*
